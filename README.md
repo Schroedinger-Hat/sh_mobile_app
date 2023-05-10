@@ -10,10 +10,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1>Template</h1>
+  <h1>SH Mobile</h1>
   
-  <a href="https://github.com/Schrodinger-Hat/template">
-    <img src="public/sh.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Schrodinger-Hat/sh_mobile_app">
+    <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">
