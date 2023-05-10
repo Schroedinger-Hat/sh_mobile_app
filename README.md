@@ -15,18 +15,8 @@
   <a href="https://github.com/Schrodinger-Hat/sh_mobile_app">
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/Schrodinger-Hat/template/blob/main/README.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://www.schrodinger-hat.it/">View Demo</a>
-    ·
-    <a href="https://github.com/Schrodinger-Hat/Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Schrodinger-Hat/Template/issues">Request Feature</a>
-  </p>
+  
+  WIP
 </div>
 
 <!-- TABLE OF CONTENTS -->
