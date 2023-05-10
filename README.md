@@ -67,11 +67,11 @@ Project Link: [https://github.com/Schrodinger-Hat/template](https://github.com/S
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Schrodinger-Hat/template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Schrodinger-Hat/template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Schrodinger-Hat/template.svg?style=for-the-badge
-[forks-url]: https://github.com/Schrodinger-Hat/template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Schrodinger-Hat/template?style=for-the-badge
-[stars-url]: https://github.com/Schrodinger-Hat/template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Schrodinger-Hat/template.svg?style=for-the-badge
-[issues-url]: https://github.com/Schrodinger-Hat/template/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Schrodinger-Hat/sh_mobile_app.svg?style=for-the-badge
+[contributors-url]: https://github.com/Schrodinger-Hat/sh_mobile_app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Schrodinger-Hat/sh_mobile_app.svg?style=for-the-badge
+[forks-url]: https://github.com/Schrodinger-Hat/sh_mobile_app/network/members
+[stars-shield]: https://img.shields.io/github/stars/Schrodinger-Hat/sh_mobile_app?style=for-the-badge
+[stars-url]: https://github.com/Schrodinger-Hat/sh_mobile_app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Schrodinger-Hat/sh_mobile_app.svg?style=for-the-badge
+[issues-url]: https://github.com/Schrodinger-Hat/sh_mobile_app/issues
